@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700;800&display=swap');
+
+
+body{
+    background-color: #1C1C1C;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin: 5em;
+}
+.container{
+    width: 550px;
+    height:550px;
+    
+    background-color: #1F2937;
+    
+}
+.border1{
+
+    width: 441px;
+    height: 246px;
+    margin-left: 49px;
+    margin-top: 116px;
+    font-family:  'Karla', sans-serif;
+    border-bottom: 1px solid #2F3E53;}
+
+.para{
+    width: 211px;
+    height: 29px;
+    background-color: #273549;
+    border-radius: 5px;
+    color :#55F991;
+    text-align: center;
+    padding-top:10px ;
+    font-family:  'Inter', sans-serif;
+
+
+}
+.border2{
+    margin-top: 17px;
+    width: 441px;
+    height: 163px;
+    margin-left: 49px; 
+
+
+ 
+}
+
+h1{
+    font-size: 40px;
+    line-height: 30px;
+
+    
+}
+.para1{
+    font-size: 20px;
+    font-family:  'Inter';
+    color:rgb(201, 201, 201);
+    margin-top:-10px;
+
+}
+
+.border-inside-1{
+     display: flex;
+    gap: 10px;
+    gap: 10px 20px; /* row-gap column gap */
+    row-gap: 10px;
+    column-gap: 20px;
+}
+
+.border-inside-2{
+
+    display: flex;
+   gap: 10px;
+   gap: 10px 20px; /* row-gap column gap */
+   row-gap: 10px;
+   column-gap: 20px;
+}
+
+#espace{
+    color:#1F2937 ;
+
+    
+}
+button{
+    width: 223px;
+    height: 42px;
+    background-color: #10B981;;
+    color: #fff;
+    display: flex;
+    border: none;
+    border-radius: 5px;
+    margin-top: 50px;
+    font-size: 18px;
+    font-family:  'Inter', sans-serif;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+#icon{
+    
+    width: 30px;
+    height: 25px;
+   
+}
