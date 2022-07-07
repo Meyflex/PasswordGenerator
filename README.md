@@ -29,7 +29,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## À propos du projet
-![image](https://user-images.githubusercontent.com/98128042/177801920-278e50fb-67fc-4ddd-88b3-6ab6f0edf78e.png)
+
+![2022-07-07_21-22-13_AdobeExpress](https://user-images.githubusercontent.com/98128042/177855869-d88bdb72-ddd2-465c-a993-133cef2cdb43.gif)
 
 
 
