@@ -9,7 +9,7 @@
   <summary>Table des matières</summary>
   <ol>
     <li>
-      <a href="#À-propos-du-projet">À propos du projet</a>
+      <a href="#à-propos-du-projet">À propos du projet</a>
       <ul>
         <li><a href="#built-with">Construit avec</a></li>
       </ul>
@@ -60,8 +60,7 @@ Pour mettre en place une copie locale et la faire fonctionner, suivez les étape
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Meyflex/PasswordGenerator
-.git
+   git clone https://github.com/Meyflex/PasswordGenerator.git
    ```
 2. l'ouvrir et profiter
 
