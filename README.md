@@ -84,7 +84,7 @@ Utiliser la Template afin d'implementer un generateur de mot de passe dans votre
 
 ## Contact
 
-Mohamed Elmimegh - mohamed.elmdimegh@universite-paris-saclay.fr
+Mohamed Elmdimegh - mohamed.elmdimegh@universite-paris-saclay.fr
 
 Project Link: [https://github.com/Meyflex/PasswordGenerator
 ](https://github.com/Meyflex/PasswordGenerator
