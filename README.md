@@ -74,7 +74,7 @@ Pour mettre en place une copie locale et la faire fonctionner, suivez les étape
 ## Usage
 
 Utiliser la Template afin d'implementer un generateur de mot de passe dans votre plateforme pour facilite la creation de mot de passe pour les utilisateurs.
-
+https://meyflex.github.io/PasswordGenerator/
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
